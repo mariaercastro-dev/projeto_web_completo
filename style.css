@@ -1,0 +1,12 @@
+body{
+background-color: rgb(160, 209, 212);
+font-family: arial;
+margin: 0;
+}
+
+header{
+    background-color: rgb(7, 47, 87);
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
